@@ -24,7 +24,7 @@ Watch more about this product on our [YouTube channel](https://www.youtube.com/@
 
 To get your own Raspberry Pi Camera Module 3, visit our online store: (Product Page)
 
-* [Raspberry Pi Camera Module 3 – 12MP, Standard (75°)](https://roboticx.ps/product/raspberry-pi-camera-module-3-12mp-standard-75/)
+* [Raspberry Pi Camera Module 3 – 12MP, Standard (75°) and Wide (120°)](https://roboticx.ps/product/raspberry-pi-camera-module-3-12mp-standard-75/)
 
 ----
 
