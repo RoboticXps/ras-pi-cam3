@@ -8,8 +8,19 @@ Code snippets for Raspberry Pi Camera Module 3
 </picture>
 </p>
 
+Quick commands for working on Raspberry Pi Camera Module 3:
+- Preview the camera:
+```
+rpicam-hello
+```
+or
+```
+rpicam-hello -t 5000
+```
+_5000: millisecond_ -> 5 seconds
 
-Watch the implementation of this code on our [YouTube channel](https://www.youtube.com/@Roboticxps)
+
+Watch more about this product on our [YouTube channel](https://www.youtube.com/@Roboticxps)
 
 To get your own Raspberry Pi Camera Module 3, visit our online store: (Product Page)
 
